@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 body {
-background-color: rgb(0, 204, 255));
+    background-color: rgb(0, 204, 255));
 }
 h1 {
     text-align: center;
@@ -10,16 +9,3 @@ p {
     color: #8b008b;
     text-align: center;
 }
-=======
-body {
-background-color: rgb(0, 204, 255);
-}
-h1 {
-    text-align: center;
-    color: crimson;
-}
-p {
-    color: #8b008b;
-    text-align: center;
-}
->>>>>>> 1539ca3efa11af3ffa48e0201f5dfa09cd098485
