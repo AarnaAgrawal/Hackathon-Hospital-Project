@@ -23,3 +23,13 @@ button:hover{
     background-color: white;
     color: orange;
 }
+h1{
+    color: teal;
+    font-family: monospace;
+    text-align: center;
+}
+h4{
+    color: darkmagenta;
+    font-family: cursive;
+    text-align: center;
+}
