@@ -1,3 +1,38 @@
 body {
     background-color: rgb(255, 182, 197);
 }
+h1{
+    color: darkblue;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h4{
+    color: rgb(139, 0, 93);
+    font-family: cursive;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-left:200px;
+}
+div {
+    background-color: orange;
+    height: 75px;
+}
+button{
+    margin-top: 11px;
+    width: 330px;
+    height: 50px;
+    border-color: orange;
+    background-color: orange;
+    color: white;
+    border-top: orange;
+    border-bottom: white;
+    border-left: orange;
+    border-right: orange;
+    font-size: 30px;
+    font-family: cursive;
+}
+button:hover{
+    background-color: white;
+    color: orange;
+}
