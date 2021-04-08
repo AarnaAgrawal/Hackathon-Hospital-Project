@@ -14,3 +14,26 @@ p {
     height: 200px;
     margin-left: 450px;
 }
+div {
+    background-color: orange;
+    height: 75px;
+}
+button{
+    margin-left: 1px;
+    margin-top: 11px;
+    width: 333px;
+    height: 50px;
+    border-color: orange;
+    background-color: orange;
+    color: white;
+    border-top: orange;
+    border-bottom: white;
+    border-left: orange;
+    border-right: orange;
+    font-size: 30px;
+    font-family: cursive;
+}
+button:hover{
+    background-color: white;
+    color: orange;
+}
