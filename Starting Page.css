@@ -1,3 +1,25 @@
 body {
     background-color: rgb(209, 184, 119);
 }
+div {
+    background-color: orange;
+    height: 75px;
+}
+button{
+    margin-top: 11px;
+    width: 330px;
+    height: 50px;
+    border-color: orange;
+    background-color: orange;
+    color: white;
+    border-top: orange;
+    border-bottom: white;
+    border-left: orange;
+    border-right: orange;
+    font-size: 30px;
+    font-family: cursive;
+}
+button:hover{
+    background-color: white;
+    color: orange;
+}
