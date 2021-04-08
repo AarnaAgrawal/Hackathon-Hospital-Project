@@ -2,3 +2,38 @@
 body{
     background-color: rgb(197, 163, 230);
 }
+div {
+    background-color: orange;
+    height: 75px;
+}
+button{
+    margin-top: 11px;
+    width: 330px;
+    height: 50px;
+    border-color: orange;
+    background-color: orange;
+    color: white;
+    border-top: orange;
+    border-bottom: white;
+    border-left: orange;
+    border-right: orange;
+    font-size: 30px;
+    font-family: cursive;
+}
+button:hover{
+    background-color: white;
+    color: orange;
+}
+h1{
+    color: rgb(236, 53, 138);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    color: teal;
+    font-family: cursive;
+}
+img{
+    margin-left: 200px;
+    width: 300px;
+    height: 300px;
+}
