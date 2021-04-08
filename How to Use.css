@@ -27,10 +27,12 @@ button:hover{
 h1{
     color: rgb(236, 53, 138);
     font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 h4{
     color: teal;
     font-family: cursive;
+    text-align: center;
 }
 img{
     margin-left: 200px;
