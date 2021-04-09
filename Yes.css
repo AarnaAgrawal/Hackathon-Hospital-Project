@@ -13,7 +13,7 @@ h1{
     height: 50px;
 }
 div{
-    
+    margin-left:600px;
     background-color: rgb(124, 199, 153);
     width:60px;
     height: 90px;
@@ -22,5 +22,23 @@ div{
     width:300px;
     height:300px;
     margin-left:500px
+}
+button{
+    margin-top:11px;
+    width: 330px;
+    height: 50px;
+    background-color: hotpink;
+    color: white;
+    border-top: hotpink;
+    border-bottom: white;
+    border-left: hotpink;
+    border-right: hotpink;
+    font-size: 30px;
+    font-family: cursive;
+    margin-left:500px;
+}
+button:hover{
+    background-color: white;
+color: hotpink;
 }
 
