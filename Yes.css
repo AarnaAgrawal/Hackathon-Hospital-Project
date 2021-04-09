@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(28, 196, 92);
+}
+h1{
+    color: green;
+    border-color: white;
+    text-align: center;
+    font-size: 100px;
+}
+#abc{
+    margin-top: 0px;
+    width: 50px;
+    height: 50px;
+}
+div{
+    
+    background-color: rgb(124, 199, 153);
+    width:60px;
+    height: 90px;
+}
+#cool{
+    width:300px;
+    height:300px;
+    margin-left:500px
+}
+
