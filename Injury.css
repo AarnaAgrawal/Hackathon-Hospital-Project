@@ -7,7 +7,6 @@ table{
 }
 th{
     margin-right:2px;
-    padding-right:20px;
     border-radius: 2px;
     color:teal;
     font-family: cursive;
@@ -32,4 +31,23 @@ h4{
 img{
     width:250px;
     height:150px;
+}
+button{
+    margin-top:11px;
+    width: 330px;
+    height: 50px;
+    border-color: rgb(28, 196, 92);
+    background-color: rgb(28, 196, 92);
+    color: white;
+    border-top: rgb(28, 196, 92);
+    border-bottom: white;
+    border-left: rgb(28, 196, 92);
+    border-right: rgb(28, 196, 92);
+    font-size: 30px;
+    font-family: cursive;
+    margin-left:500px;
+}
+button:hover{
+    background-color: white;
+color: rgb(28, 196, 92);
 }
