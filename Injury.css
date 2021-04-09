@@ -1,0 +1,35 @@
+table{
+    border-color: rgb(220, 20, 20);
+    background-color:rgb(255, 218, 252);
+    text-align:center;
+    margin-left:5px;
+    font-family: cursive;
+}
+th{
+    margin-right:2px;
+    padding-right:20px;
+    border-radius: 2px;
+    color:teal;
+    font-family: cursive;
+}
+td{
+    padding-right:20px;
+    background-color: white;
+}
+body{
+    background-color: rgb(252, 229, 252);
+}
+h1{
+    color: rgb(32, 97, 238);
+    text-align: center;
+    font-family: cursive;
+}
+h4{
+    color: rgb(235, 16, 16);
+    text-align: center;
+    font-family:cursive;
+}
+img{
+    width:250px;
+    height:150px;
+}
